@@ -1,0 +1,6 @@
+
+2022-08-04 14:00:37.998934 - La predicton UP a été émise.
+2022-08-04 14:00:42.237278 - La predicton DOWN a été émise.
+2022-08-04 14:00:42.699073 - La predicton UP a été émise.
+2022-08-04 14:00:43.280328 - La predicton DOWN a été émise.
+2022-08-04 14:00:47.791941 - La predicton UP a été émise.
